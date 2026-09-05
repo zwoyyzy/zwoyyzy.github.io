@@ -2,14 +2,14 @@
 
 main:
 
-  - title: "关于我"
-    url: /aboutme/
+ - title: "关于我"
+    url: https://zwoyyzy.github.io/aboutme/
 
   - title: "技能与自评"
-    url: /skills/
+    url: https://zwoyyzy.github.io/skills/
 
   - title: "项目与实践"
-    url: /projects/
+    url: https://zwoyyzy.github.io/projects/
 
   - title: "未来规划"
-    url: /plan/
+    url: https://zwoyyzy.github.io/plan/
