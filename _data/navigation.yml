@@ -2,7 +2,7 @@
 
 main:
   - title: "首页"
-    url: /
+    url: /about/
 
   - title: "关于我"
     url: /aboutme/
