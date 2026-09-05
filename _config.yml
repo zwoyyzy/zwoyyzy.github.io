@@ -23,7 +23,7 @@ repository               : "zwoyyzy/zwoyyzy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "吴诗莹"
   pronouns         : # example: "she/her"  
   bio              : "一直游到海水变蓝！"
