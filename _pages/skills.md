@@ -1,6 +1,6 @@
 ---
 permalink: /skills/
-title: "技能与自评"
+title: "技能自评"
 author_profile: true
 ---
 
