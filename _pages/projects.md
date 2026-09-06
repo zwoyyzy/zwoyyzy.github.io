@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "项目与实践"
+title: "项目实践"
 author_profile: true
 ---
 
