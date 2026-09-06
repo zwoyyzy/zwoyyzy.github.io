@@ -15,7 +15,7 @@ author_profile: true
 
 **技术栈（计划）：** Python、PyTorch、MONAI、Swin-UMamba、BERT、医学图像分割
 
-### NIPT 最佳检测时点建模研究|2025 CUMCM
+### NIPT 最佳检测时点建模研究｜2025 CUMCM
 主要工作：
 - 通过 Pearson 相关分析、单变量回归和多元二次回归，研究孕周、BMI 等因素与胎儿 Y 染色体浓度之间的关系；
 - 使用 K-means 完成 BMI 分组，结合 Kaplan–Meier 生存分析估计 Y 染色体浓度达标时间；
