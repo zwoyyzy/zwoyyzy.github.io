@@ -1,3 +1,9 @@
+---
+permalink: /plan/
+title: "未来规划"
+author_profile: true
+---
+
 # 未来三年发展规划
 
 ## 我的目标
